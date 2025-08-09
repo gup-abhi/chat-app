@@ -64,7 +64,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/gup-abhi/chat-app.git
 cd chat-app
 ```
 
